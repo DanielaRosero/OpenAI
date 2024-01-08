@@ -16,7 +16,10 @@ Para ejecutar este proyecto, necesitarás:
 
 ### Instalación
 
-- Clona el repositorio: git clone [URL del repositorio]
+- Clona el repositorio:
+  ```python
+  git clone [URL del repositorio]
+  ```
 
 - Instala las dependencias: pip install -r requirements.txt
 
