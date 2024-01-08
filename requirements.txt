@@ -1,0 +1,3 @@
+# Es necesario tener instalado:
+openai
+gradio
