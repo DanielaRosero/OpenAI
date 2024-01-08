@@ -21,13 +21,19 @@ Para ejecutar este proyecto, necesitarás:
   git clone [URL del repositorio]
   ```
 
-- Instala las dependencias: pip install -r requirements.txt
+- Instala las dependencias:
+```python
+pip install -r requirements.txt
+```
 
 - Configura tu clave API de OpenAI como una variable de entorno.
 
 ### Uso
 
-- Para iniciar el asistente virtual, ejecuta el script principal: python nombre_del_script.py
+- Para iniciar el asistente virtual, ejecuta el script principal:
+```python
+python nombre_del_script.py
+```
 
 - Luego, abre el enlace proporcionado por Gradio en tu navegador para interactuar con el asistente.
 
